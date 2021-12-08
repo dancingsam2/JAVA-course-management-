@@ -1,2 +1,2 @@
-# JAVA-course-management-
-software development project for 500l students 
+# Java-CourseManagementSystem
+ This is the Course Management System with GUI, build in Java
